@@ -1,0 +1,10 @@
+let 택배들 = []
+택배들.push("아이패드")
+택배들.push("모니터")
+택배들.push("옷")
+택배들.push("화장품")
+택배들.pop()
+택배들.pop()
+let 내택배 = 택배들.pop()
+console.log(택배들)
+console.log(내택배)
