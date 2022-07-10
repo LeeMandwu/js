@@ -3,4 +3,4 @@ function 구구단(i) {
         console.log(i * a)
     }
 }
-구구단(13)
+구구단(14)
